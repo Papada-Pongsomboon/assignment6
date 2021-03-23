@@ -1,0 +1,26 @@
+body{
+    background-color:navajowhite;
+    font-family: 'Quicksand', sans-serif;
+    color: black; 
+    font-size: 25px;
+
+}
+span{
+    color: orangered;
+    font-size: 20px;
+}
+#myform{
+    
+    background-color:navajowhite;
+    text-align: center;
+}
+#topic{
+    color: navy;
+    text-align: center;
+    font-size: 50px;
+}
+#Loginform{
+    background-color:navajowhite;
+    text-align: center;
+
+}
